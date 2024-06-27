@@ -1,1 +1,1 @@
-# Como implementar um Circuit Breaker com Resilience4j e Spring Boot
+# Implementação de um Circuit Breaker em Java, utilizando a biblioteca Resilience4j e Spring Boot
