@@ -1,0 +1,13 @@
+com\algaworks\example\resilience4j\produtos\api\RecursoNaoEncontradoException.class
+com\algaworks\example\resilience4j\produtos\client\avaliacoes\AvaliacaoClient.class
+com\algaworks\example\resilience4j\produtos\ProdutoApplication.class
+com\algaworks\example\resilience4j\produtos\config\RestTemplateConfig.class
+com\algaworks\example\resilience4j\produtos\CircuitBreakerLogConfig$1.class
+com\algaworks\example\resilience4j\produtos\CircuitBreakerLogConfig.class
+com\algaworks\example\resilience4j\produtos\client\avaliacoes\AvaliacaoModel.class
+com\algaworks\example\resilience4j\produtos\api\ProdutoModel.class
+com\algaworks\example\resilience4j\produtos\infra\client\AvaliacaoClientImpl.class
+com\algaworks\example\resilience4j\produtos\infra\database\ProdutoRepositoryImpl.class
+com\algaworks\example\resilience4j\produtos\domain\Produto.class
+com\algaworks\example\resilience4j\produtos\domain\ProdutoRepository.class
+com\algaworks\example\resilience4j\produtos\api\ProdutoController.class

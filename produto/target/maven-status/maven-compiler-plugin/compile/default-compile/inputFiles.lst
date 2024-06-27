@@ -1,0 +1,12 @@
+C:\development\Circuit-Breaker\produto\src\main\java\com\algaworks\example\resilience4j\produtos\client\avaliacoes\AvaliacaoClient.java
+C:\development\Circuit-Breaker\produto\src\main\java\com\algaworks\example\resilience4j\produtos\api\ProdutoController.java
+C:\development\Circuit-Breaker\produto\src\main\java\com\algaworks\example\resilience4j\produtos\client\avaliacoes\AvaliacaoModel.java
+C:\development\Circuit-Breaker\produto\src\main\java\com\algaworks\example\resilience4j\produtos\config\RestTemplateConfig.java
+C:\development\Circuit-Breaker\produto\src\main\java\com\algaworks\example\resilience4j\produtos\CircuitBreakerLogConfig.java
+C:\development\Circuit-Breaker\produto\src\main\java\com\algaworks\example\resilience4j\produtos\domain\ProdutoRepository.java
+C:\development\Circuit-Breaker\produto\src\main\java\com\algaworks\example\resilience4j\produtos\infra\client\AvaliacaoClientImpl.java
+C:\development\Circuit-Breaker\produto\src\main\java\com\algaworks\example\resilience4j\produtos\ProdutoApplication.java
+C:\development\Circuit-Breaker\produto\src\main\java\com\algaworks\example\resilience4j\produtos\infra\database\ProdutoRepositoryImpl.java
+C:\development\Circuit-Breaker\produto\src\main\java\com\algaworks\example\resilience4j\produtos\api\RecursoNaoEncontradoException.java
+C:\development\Circuit-Breaker\produto\src\main\java\com\algaworks\example\resilience4j\produtos\domain\Produto.java
+C:\development\Circuit-Breaker\produto\src\main\java\com\algaworks\example\resilience4j\produtos\api\ProdutoModel.java

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.algaworks.example.resilience4j.produtos.AlgaWorksResilience4JPostsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.766 s - in com.algaworks.example.resilience4j.produtos.AlgaWorksResilience4JPostsApplicationTests

@@ -1,0 +1,7 @@
+com\algaworks\example\resilience4j\avaliacao\api\AvaliacaoController.class
+com\algaworks\example\resilience4j\avaliacao\domain\AvaliacaoRepository.class
+com\algaworks\example\resilience4j\avaliacao\api\AvaliacaoModel.class
+com\algaworks\example\resilience4j\avaliacao\infra\database\AvaliacaoRepositoryImpl.class
+com\algaworks\example\resilience4j\avaliacao\api\RecursoNaoEncontradoException.class
+com\algaworks\example\resilience4j\avaliacao\domain\Avaliacao.class
+com\algaworks\example\resilience4j\avaliacao\AvaliacaoApplication.class
