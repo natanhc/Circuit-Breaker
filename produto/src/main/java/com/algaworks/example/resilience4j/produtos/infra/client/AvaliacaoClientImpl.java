@@ -20,7 +20,7 @@ public class AvaliacaoClientImpl implements AvaliacaoClient {
 	private final CircuitBreakerLogConfig cbLogConfig;
 	
 	private final static String API_URL = UriComponentsBuilder
-			.fromHttpUrl("http://localhost:8091/avaliacaos")
+			.fromHttpUrl("http://localhost:8091/avaliacoes")
 			.queryParam("produtoId", "{produtoId}")
 			.encode()
 			.toUriString();
